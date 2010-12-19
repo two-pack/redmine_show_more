@@ -1,0 +1,4 @@
+= Redmine show more plugin
+
+This is plugin for redmine.
+It shows all properties on issue update view from the first.
